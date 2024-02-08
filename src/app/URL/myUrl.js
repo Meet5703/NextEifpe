@@ -1,3 +1,3 @@
-const myUrl = "http://localhost:3000";
+const myUrl = "https://eifpe-bollywood.vercel.app/";
 
 export default myUrl;
