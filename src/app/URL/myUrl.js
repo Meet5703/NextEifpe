@@ -1,3 +1,3 @@
-const myUrl = "http://localhost:3000";
+const myUrl = "https://next-eifpe.vercel.app";
 
 export default myUrl;
